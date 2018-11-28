@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  graphclustering:
+    image: graphclustering
+    build:
+      context: .
+      dockerfile: Graph Clustering\Dockerfile

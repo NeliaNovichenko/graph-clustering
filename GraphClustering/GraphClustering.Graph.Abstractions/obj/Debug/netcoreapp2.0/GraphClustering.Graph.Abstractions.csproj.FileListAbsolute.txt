@@ -1,0 +1,9 @@
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\bin\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.deps.json
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\bin\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.dll
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\bin\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.pdb
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.csprojResolveAssemblyReference.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.csproj.CoreCompileInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.AssemblyInfoInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.AssemblyInfo.cs
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.dll
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Graph.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Graph.Abstractions.pdb

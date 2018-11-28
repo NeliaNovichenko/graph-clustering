@@ -1,0 +1,11 @@
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\bin\Debug\netcoreapp2.0\GraphClustering.deps.json
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\bin\Debug\netcoreapp2.0\GraphClustering.runtimeconfig.json
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\bin\Debug\netcoreapp2.0\GraphClustering.runtimeconfig.dev.json
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\bin\Debug\netcoreapp2.0\GraphClustering.dll
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\bin\Debug\netcoreapp2.0\GraphClustering.pdb
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.csprojResolveAssemblyReference.cache
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.csproj.CoreCompileInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.AssemblyInfoInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.AssemblyInfo.cs
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.dll
+D:\Studing\Diploma\Code\Graph Clustering\Graph Clustering\obj\Debug\netcoreapp2.0\GraphClustering.pdb

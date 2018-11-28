@@ -1,0 +1,4 @@
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Algorithms.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Algorithms.Abstractions.csprojResolveAssemblyReference.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Algorithms.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Algorithms.Abstractions.csproj.CoreCompileInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Algorithms.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Algorithms.Abstractions.AssemblyInfoInputs.cache
+D:\Studing\Diploma\Code\Graph Clustering\GraphClustering.Algorithms.Abstractions\obj\Debug\netcoreapp2.0\GraphClustering.Algorithms.Abstractions.AssemblyInfo.cs
