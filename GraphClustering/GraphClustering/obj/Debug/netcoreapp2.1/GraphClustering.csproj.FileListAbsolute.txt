@@ -1,0 +1,15 @@
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\bin\Debug\netcoreapp2.1\GraphClustering.deps.json
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\bin\Debug\netcoreapp2.1\GraphClustering.runtimeconfig.json
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\bin\Debug\netcoreapp2.1\GraphClustering.runtimeconfig.dev.json
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\bin\Debug\netcoreapp2.1\GraphClustering.dll
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\bin\Debug\netcoreapp2.1\GraphClustering.pdb
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.csprojAssemblyReference.cache
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.csproj.CoreCompileInputs.cache
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.RazorAssemblyInfo.cache
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.RazorAssemblyInfo.cs
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.AssemblyInfoInputs.cache
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.AssemblyInfo.cs
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.RazorTargetAssemblyInfo.cache
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.dll
+D:\tmp\курсач\graph-clustering\GraphClustering\GraphClustering\obj\Debug\netcoreapp2.1\GraphClustering.pdb

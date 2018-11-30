@@ -1,12 +1,14 @@
-version: '3'
+version: '3.4'
 
 services:
   graphclustering:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_HTTPS_PORT=44302
     ports:
-      - "80"
-networks:
-  default:
-    external:
-      name: nat
+      - "16679:80"
+      - "44302:443"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro

@@ -1,20 +1,20 @@
-FROM microsoft/aspnetcore:2.0-nanoserver-1709 AS base
+FROM microsoft/dotnet:2.1-aspnetcore-runtime AS base
 WORKDIR /app
-EXPOSE 80
+EXPOSE 16679
+EXPOSE 44302
 
-FROM microsoft/aspnetcore-build:2.0-nanoserver-1709 AS build
+FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
-COPY Graph Clustering.sln ./
-COPY Graph Clustering/Graph Clustering.csproj Graph Clustering/
-RUN dotnet restore -nowarn:msb3202,nu1503
+COPY GraphClustering/GraphClustering.csproj GraphClustering/
+RUN dotnet restore GraphClustering/GraphClustering.csproj
 COPY . .
-WORKDIR /src/Graph Clustering
-RUN dotnet build -c Release -o /app
+WORKDIR /src/GraphClustering
+RUN dotnet build GraphClustering.csproj -c Release -o /app
 
 FROM build AS publish
-RUN dotnet publish -c Release -o /app
+RUN dotnet publish GraphClustering.csproj -c Release -o /app
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
-ENTRYPOINT ["dotnet", "Graph Clustering.dll"]
+ENTRYPOINT ["dotnet", "GraphClustering.dll"]
